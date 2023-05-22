@@ -1,0 +1,5 @@
+# VSC environment
+.vscode/
+
+# Executables
+*/*.out
