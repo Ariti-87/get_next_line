@@ -9,3 +9,11 @@
 ![Image](img/en.subject_page-0007.jpg)
 ![Image](img/en.subject_page-0008.jpg)
 ![Image](img/en.subject_page-0009.jpg)
+
+#### Compilation
+
+Without bonus:
+gcc -Wextra -Werror -Wall main.c get_next_line_bonus.c get_next_line_bonus.h get_next_line_utils_bonus.c && ./a.out
+
+With bonus:
+gcc -Wextra -Werror -Wall main.c get_next_line.c get_next_line.h get_next_line_utils.c && ./a.out
