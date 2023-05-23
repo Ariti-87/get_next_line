@@ -16,6 +16,8 @@ The parameters of the read() function are:
 - `count` : It specifies the maximum number of bytes to read from the file descriptor.
 The read() function returns the number of bytes read from the file descriptor. If the returned value is -1, it indicates a read error.
 
+
+
 # MALLOC() FUNCTION
 
 The malloc() function in the C language is used for dynamic memory allocation. It allows you to allocate a specified number of bytes from the heap memory at runtime. The term "malloc" stands for "memory allocation."
@@ -28,12 +30,13 @@ void *malloc(size_t size);
 ```
 - `size` : this represents the number of bytes to allocate. It specifies the amount of memory you want to request from the operating system. The malloc() function returns a void pointer (void *) that points to the beginning of the allocated memory block.
 
+
+
 # FREE() FUNCTION
 
 The free() function in the C language is used to deallocate memory that was previously allocated dynamically using functions like malloc(), calloc(), or realloc().
 
 The signature of the free() function is as follows:
-
 ```bash
 #include <stdlib.h>
 
