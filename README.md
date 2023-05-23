@@ -1,6 +1,8 @@
+# LESSON
+
 [EXTERNAL FUNCTIONS](docs/lesson.md)
 
-#### Subject
+# Subject
 
 ![Image](img/en.subject_page-0001.jpg)
 ![Image](img/en.subject_page-0002.jpg)
@@ -12,7 +14,7 @@
 ![Image](img/en.subject_page-0008.jpg)
 ![Image](img/en.subject_page-0009.jpg)
 
-#### Compilation
+# Compilation
 
 With bonus:
 ```bash
