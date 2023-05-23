@@ -18,7 +18,6 @@ The read() function returns the number of bytes read from the file descriptor. I
 
 <br>
 <br>
-<br>
 
 # MALLOC() FUNCTION
 
@@ -32,7 +31,8 @@ void *malloc(size_t size);
 ```
 - `size` : this represents the number of bytes to allocate. It specifies the amount of memory you want to request from the operating system. The malloc() function returns a void pointer (void *) that points to the beginning of the allocated memory block.
 
-
+<br>
+<br>
 
 # FREE() FUNCTION
 
