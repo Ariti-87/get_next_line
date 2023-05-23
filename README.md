@@ -1,4 +1,4 @@
-[EXTERMAL FUNCTIONS](docs/lesson.md)
+[EXTERNAL FUNCTIONS](docs/lesson.md)
 
 #### Subject
 
