@@ -31,6 +31,8 @@ void *malloc(size_t size);
 ```
 - `size` : this represents the number of bytes to allocate. It specifies the amount of memory you want to request from the operating system. The malloc() function returns a void pointer (void *) that points to the beginning of the allocated memory block.
 
+It is important to check the return value of malloc() to ensure that the memory allocation was successful. If malloc() returns a NULL pointer, it indicates that the requested memory allocation failed. In such cases, you should handle the error appropriately. Also, it is essential to deallocate the memory block using the free() function when you no longer need it to avoid memory leaks.
+
 <br>
 <br>
 
