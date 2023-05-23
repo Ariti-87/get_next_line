@@ -19,6 +19,7 @@ The read() function returns the number of bytes read from the file descriptor. I
 <br>
 <br>
 <br>
+
 # MALLOC() FUNCTION
 
 The malloc() function in the C language is used for dynamic memory allocation. It allows you to allocate a specified number of bytes from the heap memory at runtime. The term "malloc" stands for "memory allocation."
