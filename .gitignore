@@ -5,4 +5,4 @@
 *.out
 
 # Precompiled header
-.gch
+*.gch
