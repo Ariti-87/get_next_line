@@ -1,3 +1,5 @@
+[EXTERMAL FUNCTIONS](docs/lesson.md)
+
 #### Subject
 
 ![Image](img/en.subject_page-0001.jpg)
