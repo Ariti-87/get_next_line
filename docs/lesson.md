@@ -16,8 +16,9 @@ The parameters of the read() function are:
 - `count` : It specifies the maximum number of bytes to read from the file descriptor.
 The read() function returns the number of bytes read from the file descriptor. If the returned value is -1, it indicates a read error.
 
-
-
+<br>
+<br>
+<br>
 # MALLOC() FUNCTION
 
 The malloc() function in the C language is used for dynamic memory allocation. It allows you to allocate a specified number of bytes from the heap memory at runtime. The term "malloc" stands for "memory allocation."
